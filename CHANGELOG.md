@@ -4145,7 +4145,7 @@ https://github.com/nodejs/node/commit/01994e8119c24f2284bac0779b32acb49c95bee7
 * fs: make 'end' work with ReadStream without 'start' (Ben Noordhuis)
 * https: optimize createConnection() (Ryunosuke SATO)
 * buffer: speed up base64 encoding by 20% (Ben Noordhuis)
-* doc: Colorize API stabilitity index headers in docs (Luke Arduini)
+* doc: Colorize API stability index headers in docs (Luke Arduini)
 * net: socket.readyState corrections (bentaber)
 * http: Performance enhancements for http under streams2 (isaacs)
 * stream: fix to emit end event on http.ClientResponse (Shigeki Ohtsu)
